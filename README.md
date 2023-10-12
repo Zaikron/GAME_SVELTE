@@ -5,7 +5,7 @@
 #### <p align="center"> Profesor: Michel Emanuel López Franco </p>
 #### <p align="center"> Ciclo: 2023-B </p>
 
-> ## Trabajo Libre Svelte - LINK DEL SITIO: 
+> ## Trabajo Libre Svelte - LINK DEL SITIO: https://libre-svelte.onrender.com/
 
 #### El objetivo es sobrevivir mientras matas a los enemigos que van a apareciendo, al matar a uno te dará 10 puntos los cuales se estarán acumulando. En el escenario aparecen ítems de vida para curarte cuando ser necesite.
 <p align="center"> <img src="https://github.com/Zaikron/PROGINT_LIBRE_SVELTE/blob/main/game.gif"/> </p>
